@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marqsyuri.github.io/resources-osctst/sitemap.xml
